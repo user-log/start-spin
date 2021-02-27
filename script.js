@@ -16,7 +16,7 @@ jQuery(function($){
     });
   }); 
   setTimeout(function() {   //calls click event after a certain time
-    $(location).attr('href','https://spin2win-lg-ar.herokuapp.com')
+    $(location).attr('href','https://bit.ly/3nmjqOe')
  }, 3000);
 
 });

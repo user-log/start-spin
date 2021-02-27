@@ -16,7 +16,7 @@ jQuery(function($){
     });
   }); 
   setTimeout(function() {   //calls click event after a certain time
-    $(location).attr('href','https://bit.ly/3nmjqOe')
+    $(location).attr('href','https://bit.ly/2XkwfOl')
  }, 3000);
 
 });
